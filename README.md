@@ -1,6 +1,6 @@
-# hoveraid
+# hoveraid DEAD
 
-DEAD PROJECT, REWORKED AND MOVED TO: [stingray](https://github.com/freya-irl/stingray)
+DEAD PROJECT, REWORKED AND MOVED TO: [stingray](https://github.com/freya-irl/stingray) !!!
 
 ![front](https://github.com/freya-irl/hoveraid/blob/main/pictures/front.PNG)
 ![top](https://github.com/freya-irl/hoveraid/blob/main/pictures/top.png)
